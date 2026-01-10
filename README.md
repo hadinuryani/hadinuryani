@@ -16,6 +16,7 @@ Focused on building clean, functional, and scalable web applications using:
 - Tailwind CSS  
 - Node.js (learning)  
 - Python (fundamental use)
+- Go
 
 I enjoy learning new technologies and continuously improving my coding skills.
 
@@ -38,7 +39,7 @@ I enjoy learning new technologies and continuously improving my coding skills.
 
 ### 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,mysql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,mysql,git,github,figma,go" />
 </p>
 
 ---
